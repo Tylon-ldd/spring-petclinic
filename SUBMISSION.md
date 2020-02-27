@@ -1,7 +1,7 @@
 # Instructions
-**TODO:** Dongdong Li (ID: 1924542)
+Dongdong Li (ID: 1924542)
 
-**TODO:** Add your screen captures to a new directory called [images](images).
+Add your screen captures to a new directory called [images](images).
 
 
 # Deliverables [50 pts]
